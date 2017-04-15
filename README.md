@@ -1,4 +1,4 @@
-# Test20170408
+# Fragment + ViewPager 平移切换简单指示动画
 一个简单平移动画
 
 http://blog.csdn.net/qq_34557284/article/details/69831516
