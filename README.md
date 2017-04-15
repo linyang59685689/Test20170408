@@ -2,6 +2,7 @@
 一个简单平移动画
 
 http://blog.csdn.net/qq_34557284/article/details/69831516
+
  一. 先上效果图
 
 ![这里写图片描述](http://img.blog.csdn.net/20170409163805766?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1NTcyODQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
